@@ -2,45 +2,41 @@ Benjamin Lee "Cody" Turner
 ===============
 
 _1025 Greendale Rd. #3103 / Lexington,Ky 40601_  
-_502-330-5523 / [benjamin.lee.turner@gmail.com](mailto:benjamin.lee.turner@gmail.com)_
+_502.330.5523 / [Benjamin.Lee.Turner@gmail.com](mailto:benjamin.lee.turner@gmail.com)_
+ / _[BenjaminTurner.Tech](www.benjaminturner.tech)_
 ***
 _Objective_
 ---------
 
-To obtain a position working with embedded systems that leverages my skills,
-experience, and accomplishments as a developer.
-
-_Summary of Qualifications_
--------------------------
-
-* Stuff here
-
+To obtain a position working with an Agile team that leverages my skills,
+experience, and accomplishments as a developer while providing me with new
+skills to succeed within my career.
 
 _Technical Profile_
 ===
 ---
 ### _Programming Languages:_
 
-C, C++, Markdown, Python, HTML5/XML, JavaScript, CSS, MySQL, SQLite.
+C, C++, Python, JavaScript, SQL
 
 ### _Markup Languages:_
-HTML5/XML,
+HTML5/XML, Cascading Style Sheets (CSS), LaTeX, Markdown
 
 ### _Software / Tools:_
 
-Trello, Slack, SourceTree, Git, Gitolite, SSH, Pageant, FTP, Atom, Code::Blocks,
-MS Visual Studio, IDLE(Python IDE), Unity IDE, MS Access, Arduino IDE,
-Adobe Photoshop, Adobe Illustrator, 123Design, TinkerCAD, MatterControl,
-Simplify3D, Pronterface.
+Trello, Slack, SourceTree, Git, Gitolite, SSH, PuTTY/Pageant, FTP, Atom,
+Code::Blocks, MS Visual Studio, IDLE(Python IDE), Unity IDE, MS Access,
+Arduino IDE, Adobe Photoshop, Adobe Illustrator, 123Design, TinkerCAD,
+MatterControl, Simplify3D, Pronterface
 
 ### _Operating Systems:_
 
-Linux (Ubuntu, Mint), Mac OS, Windows (XP, Vista, 7, 10)
+Linux (Ubuntu, Mint), mac-OS, Windows (XP, Vista, 7, 10)
 
 _Education_
 ----------------------------
 
-* #### Bachelor (BS) of Computer Science / 2017
+* #### Bachelor (BS) of Computer Science (with Honors) / 2017
   + _Kentucky State University - Frankfort, KY_
 
 * #### Associates of Applied Science (AAS) in Graphic Design / 2009
@@ -62,15 +58,15 @@ _Professional Experience_
 
 _Undergraduate Researcher, Oct 2015 - Present_
 
-* Describe what you did during the project.
-* Another
+Lead Front End Developer for agricultural research project with a focus on 3D
+design/3D printing, electrical wiring, manufacturing temperature sensors, and
+implementation of open-source tools to maintain open-source hardware for remote
+insect monitoring sensor network.
 
 ### Verizon's Makers Mark Program (Frankfort, KY)
 
 _3D Designer / 3D Printer Specialist, Summer 2015 / Summer 2016_
 
-* Describe what you did during the project.
-* Another
-* Another one
-* Another one
-* Another one
+I used my 3D-printing and other STEM expertise to help introduce
+African-American male middle-school students to pathways in STEM careers under
+ a grant sponsored by the Verizon Foundation.
