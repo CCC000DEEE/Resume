@@ -63,7 +63,7 @@ design/3D printing, electrical wiring, manufacturing temperature sensors, and
 implementation of open-source tools to maintain open-source hardware for remote
 insect monitoring sensor network.
 
-### Verizon's Makers Mark Program (Frankfort, KY)
+### Verizon Minority Male Maker Program  (Frankfort, KY)
 
 _3D Designer / 3D Printer Specialist, Summer 2015 / Summer 2016_
 
